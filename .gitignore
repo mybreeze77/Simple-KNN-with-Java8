@@ -12,6 +12,7 @@
 build
 
 # other files
+bin
 target
 *.tmp
 *.log

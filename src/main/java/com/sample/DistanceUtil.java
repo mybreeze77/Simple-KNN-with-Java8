@@ -1,11 +1,5 @@
 package com.sample;
 
-/**
- * 
- * @author Breeze
- *
- */
-
 public class DistanceUtil {
 
 	/**
